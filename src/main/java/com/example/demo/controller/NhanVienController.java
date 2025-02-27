@@ -86,5 +86,5 @@ public class NhanVienController {
         return "redirect:/nhan-vien";
     }
 
-
+//Xin chào nhân viên
 }
